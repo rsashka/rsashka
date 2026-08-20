@@ -1,13 +1,13 @@
 [![](https://img.shields.io/github/stars/rsashka?style=flat-square&logo=github)][1] ![](https://img.shields.io/github/followers/rsashka?style=flat-square&logo=github)
 
 [1]: https://github.com/rsashka
-[2]: https://github.com/rsashka/newlang
+[2]: https://github.com/afteri-ru/trust-lang
 [3]: https://github.com/rsashka/memsafe
 [4]: https://github.com/afteri-ru/trusted-cpp
 
 ## Main projects
 
-1. [NewLang](https://github.com/rsashka/newlang) - A keyword-less programming language for easily creating your own programming language syntax   
+1. [TrustLang](https://github.com/afteri-ru/trust-lang) - A trusted (safety), keyword-free programming language compatible with C++ code and infrastructure.
    [![](https://img.shields.io/github/stars/rsashka/newlang?style=flat-square&logo=github)][2] [![](https://img.shields.io/github/forks/rsashka/newlang?style=flat-square&logo=github)][2]
    
 2. [Trusted-CPP](https://github.com/afteri-ru/trusted-cpp) (older name [MemSafe](https://github.com/rsashka/memsafe)) - Libraries and a Clang compiler plugin for trusted programming to prevent errors in source code, including safe memory management, for in C++ without breaking backward compatibility   
